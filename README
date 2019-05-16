@@ -1,0 +1,21 @@
+一个使用键盘灯传输数据的代码 by Blocks233
+打开程序，输入一个整数/字母 回车 输入前确保所有键盘灯处于关闭状态
+回车后三个键盘灯会闪烁三次，之后开始显示二进制数据
+显示结束后键盘灯会再闪烁三次
+
+核心函数 keybd_event
+
+A code to transfer data using a keyboard light by Blocks233
+Open the program and enter an integer/letter Enter. Make sure all keyboard lights are off before entering.
+After the carriage return, the three keyboard lights will flash three times, then start to display binary data.
+The keyboard light will flash three times after the display is over.
+
+Core function keybd_event
+
+_________________________________________________________________________________________________________________________
+
+keyboard_data.cpp by Blocks233
+keyboard_data.exe by Blocks233 coder: TIM-GCC 4.9.2 64-bit Release
+translate by Google Translate
+
+2019/5/16
